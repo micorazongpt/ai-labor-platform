@@ -1,0 +1,34 @@
+{
+  "name": "ai-labor-platform",
+  "version": "1.0.0",
+  "description": "AI 기술을 활용한 노무 계산 플랫폼",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "퇴직금계산기",
+    "연차계산기",
+    "야근수당계산기",
+    "AI노무사",
+    "노무관리"
+  ],
+  "author": "AI노무사",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "^14.0.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.6"
+  }
+}
